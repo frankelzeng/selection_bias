@@ -6,4 +6,4 @@ Heidi Wu (Boise State University)
 Andres Salcedo (University of Arizona)
 Chris Hirata (The Ohio State University)
 # Structure
-/source/corrfunc_CylinderD30.py is the main file containing all methods to analyze the correlation relation in the Abacus data set. Corrfunc is the main package for this analysis.
+/source/corrfunc_CylinderD30_ab.py is the main file containing all methods to analyze the correlation relation in the Abacus data set. Corrfunc is the main package for this analysis.
